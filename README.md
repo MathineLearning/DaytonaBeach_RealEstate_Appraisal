@@ -6,7 +6,8 @@ Scikit-Learn decision tree.
 # Objective
 To provide an alternative appraisal algorithm to accurately predict if houses in the Daytona Beach area will have a
 beachside view, river view, or no view based on five input variables. This project will demonstrate the use of a decision tree 
-algorithm using a CSV file, analyzing the data using different criteria (Entropy & Gini) and visualizing it.
+algorithm using a CSV file, analyzing the data using different criteria (Entropy & Gini) and visualizing it. In this specific case, 
+the decision tree also provides insight into which feature variable could be most useful in the decision making based on when it is split.
 
 
 # Dataset:
@@ -30,7 +31,7 @@ Target Variable:
 1. View of house
 
 # Output
-My outputs are as followed. Results may differ slightly. 
+My outputs are as followed. Results may differ slightly. You can change the depth of the tree and number of sample leaves.
 
 Statistics Report Output
 
@@ -39,6 +40,8 @@ Statistics Report Output
 Entropy Report Output
 
 ![Entropy Report Output](Graphics/Entropy_Report.png)
+
+Gini Report Output
 
 ![Gini Report Output](Graphics/Gini_Report.png)
 
