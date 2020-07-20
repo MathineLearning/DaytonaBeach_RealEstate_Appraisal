@@ -12,7 +12,7 @@ algorithm using a CSV file, analyzing the data using different criteria (Entropy
 # Dataset:
 The data selected was retrieved from Zillow. The map of the area that the houses were selected is shown below: 
 
-![Map of Daytona houses](Graphics/Map_of_data.PNG)
+![Map of Daytona houses](Graphics/Map_of_data.PNG "Map of the Data Area")
 
 The western bank has the view of the Halifax river (halifax), the central region has no view (inland), and the eastern 
 bank is the Atlantic Ocean (beach). 
