@@ -31,9 +31,12 @@ Target Variable:
 
 # Output
 My outputs are as followed. Results may differ slightly. 
+Statistics Report Output
 
 ![Statistics Report Output](Graphics/DT_Output.png)
+
 ![Entropy Report Output](Graphics/Entropy_Report.png)
+
 ![Gini Report Output](Graphics/Gini_Report.png)
 
 
